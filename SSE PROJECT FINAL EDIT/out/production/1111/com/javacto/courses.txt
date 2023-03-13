@@ -1,0 +1,6 @@
+course startTime Duration subject Level Affinity
+science 11112011 0105 science 2 1
+math 01011111 0505 math 3 2
+physics 01010000 0000 physics 2 3
+PE 00/11/1111 23/11 math 1 1
+math 22/23/1987 23/43 math 3 3
